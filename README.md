@@ -2,6 +2,10 @@
 
 Binary Visualization in Go
 
+## Example
+
+![Example image](/example.jpg?raw=true)
+
 ## References
 
 Inspiration:
