@@ -16,8 +16,8 @@ func usage(name string) {
 	fmt.Println("Bin(Go)Vis")
 	fmt.Println("")
 	fmt.Printf("Usage: %v inputfile outputfile\n", name)
-	fmt.Printf("   inputfile - Input file to analyze\n", name)
-	fmt.Printf("   outputimage - Output PNG image\n", name)
+	fmt.Printf("   inputfile - Input file to analyze\n")
+	fmt.Printf("   outputimage - Output PNG image\n")
 }
 
 func HilbertMapD2XY(n int, d int) (int, int) {
